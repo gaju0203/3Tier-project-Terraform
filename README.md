@@ -87,14 +87,19 @@ Defined in `backend.tf` for:
 
 ### How to Deploy This Project
 
-### 1️⃣ Clone the Repository
+## Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/gaju0203/3Tier-project-Terraform.git
 cd 3Tier-project-Terraform
 # Deployment Flow:- terraform init to initialize modules and backend,
                     terraform plan to review changes,
                     terraform apply to create infrastructure.
+
+## output:-
+ALB DNS name,RDS endpoint
+
 # Author 
 Gaju Sawase
 Aspiring AWS DevOps Engineer
+
 
